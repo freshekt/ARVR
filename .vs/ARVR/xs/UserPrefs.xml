@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{B8B854B4-F2FA-4031-A05F-8B9D774A81CD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ARVR/MainActivity.cs">
+    <Files>
+      <File FileName="ARVR/MainActivity.cs" Line="94" Column="13" />
+      <File FileName="ARVR/Adapters/MarkerAdapter.cs" Line="9" Column="31" />
+      <File FileName="ARVR/Properties/AndroidManifest.xml" Line="3" Column="2" />
+      <File FileName="../../../../Library/Frameworks/Xamarin.Android.framework/Versions/8.1.5-0/lib/xamarin.android/xbuild/Xamarin/Android/Xamarin.Android.Common.targets" Line="577" Column="2" />
+      <File FileName="ARVR/packages.config" Line="18" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/freshekt/Projects/ARVR/ARVR/MainActivity.cs" relfile="ARVR/MainActivity.cs" line="36" column="1" />
+      <Breakpoint file="/Users/freshekt/Projects/ARVR/ARVR/obj/Debug/android/src/md52b9c10343bc0c7c086626f72244a7aeb/MarkerAdapter.java" relfile="ARVR/obj/Debug/android/src/md52b9c10343bc0c7c086626f72244a7aeb/MarkerAdapter.java" line="23" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ARVR PreferredExecutionTarget="Android.8abcc835" />
+</Properties>
